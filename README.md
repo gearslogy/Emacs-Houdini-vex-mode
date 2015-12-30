@@ -1,3 +1,4 @@
+#liuyangping207@qq.com
 # Emacs-Houdini-vex-mode
   1->auto-complete for houdini-vex mode
   2->current only support auto-complete
