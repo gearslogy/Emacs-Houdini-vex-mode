@@ -1,4 +1,3 @@
-#liuyangping207@qq.com
 # Emacs-Houdini-vex-mode
   1->auto-complete for houdini-vex mode
   2->current only support auto-complete
@@ -10,3 +9,5 @@
      1->Support yasnippet
      2->Support ac-dictionaries
      3->Current support houdini version:Houdini14
+bug reports:
+liuyangping207@qq.com
