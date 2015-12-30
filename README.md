@@ -1,6 +1,6 @@
 # Emacs-Houdini-vex-mode
-auto-complete for houdini-vex mode
-
+  1->auto-complete for houdini-vex mode
+  2->current only support auto-complete
 #install
 (add-to-list 'load-path "~/.emacs.d/yourpath/")
 (require 'gearslogy-vex-mode)
